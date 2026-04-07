@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\jastd\source\repos\lab9\1\main.cpp(9,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+      C:\Users\jastd\source\repos\lab9\1\main.cpp(9,23):
+      the template instantiation context (the oldest one first) is
+          C:\Users\jastd\source\repos\lab9\1\main.cpp(20,5):
+          see reference to function template instantiation 'void Sort<int>(T [],size_t)' being compiled
+          with
+          [
+              T=int
+          ]
+  
+  1.vcxproj -> C:\Users\jastd\source\repos\lab9\x64\Debug\1.exe
