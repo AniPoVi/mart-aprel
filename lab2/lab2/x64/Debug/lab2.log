@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\jastd\source\repos\lab2\lab2\main.cpp(6,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\jastd\source\repos\lab2\lab2\main.cpp(38,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  lab2.vcxproj -> C:\Users\jastd\source\repos\lab2\x64\Debug\lab2.exe
