@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="bubble/bubble.vcxproj" />
+  <Project Path="lab3/lab3.vcxproj" />
+  <Project Path="quick/quick.vcxproj" />
+</Solution>
