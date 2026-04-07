@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\jastd\source\repos\lab6\lab6\main.cpp(5,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Stroka.cpp
+  Generating Code...
+  lab6.vcxproj -> C:\Users\jastd\source\repos\lab6\x64\Debug\main.exe
