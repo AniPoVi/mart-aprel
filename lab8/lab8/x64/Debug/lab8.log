@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\jastd\source\repos\lab8\lab8\main.cpp(4,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Stroka.cpp
+  Generating Code...
+  lab8.vcxproj -> C:\Users\jastd\source\repos\lab8\x64\Debug\stroka.exe
