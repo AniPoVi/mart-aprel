@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\jastd\source\repos\lab5\main3\main.cpp(8,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main3.vcxproj -> C:\Users\jastd\source\repos\lab5\x64\Debug\main2.exe
